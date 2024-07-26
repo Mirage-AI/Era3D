@@ -1,7 +1,7 @@
 diffusers==0.26.0
-torch==2.1.2
+torch==2.2.0
 torchvision==0.16.2
-torchaudio==2.1.2 
+torchaudio==2.2.0 
 xformers==0.0.23.post1
 transformers==4.37.2
 bitsandbytes
