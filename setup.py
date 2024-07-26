@@ -6,7 +6,7 @@ def parse_requirements(filename):
         return file.read().splitlines()
 
 setup(
-    name='instant_nsr',
+    name='era3d',
     version='0.1.0',
     description='High-Resolution Multiview Diffusion using Efficient Row-wise Attention',
     url='https://github.com/Mirage-AI/Era3D',  # Update with your project's URL
